@@ -188,8 +188,7 @@ function calculate() {
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/b935c311-274f-47de-8850-7794a690ec38)
-
+![Screenshot (55)](https://github.com/user-attachments/assets/aeeebc2d-6f02-41c7-9321-9ff03b125322)
 
 
 ## RESULT
